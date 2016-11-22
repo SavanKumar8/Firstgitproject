@@ -30,6 +30,9 @@ p{
 
 
 }
+.class{
+	?savan
+}
 
 /*p
 {
@@ -67,6 +70,7 @@ article
 }
 footer{
 	background-color:white;
+	color:blue;
 
 }
 a{
